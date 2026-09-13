@@ -29,7 +29,7 @@ Currently figuring things out, one project and one commit at a time. 🚀
 
 ---
 
-### 🔷 Tech Stack
+### 🔷 Tech Stack!
 
 **Languages**
 
@@ -129,7 +129,7 @@ More experiments.
 
 ---
 
-### 💼 Let's Connect
+### 💼 Let's Connect!
 
 I'm always open to **collaborations, hackathons, interesting projects and learning opportunities**.
 
