@@ -25,7 +25,7 @@ jobs:
 
       - run: node .github/scripts/contrib-chart.mjs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
