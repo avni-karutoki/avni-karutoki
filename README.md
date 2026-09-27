@@ -133,7 +133,10 @@ More experiments.
 
 <div align="center">
 
-![Avni's GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=avni-karutoki&bg_color=transparent&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avni-karutoki/avni-karutoki/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/avni-karutoki/avni-karutoki/output/snake.svg" alt="Avni's contribution snake" />
+</picture>
 
 </div>
 
