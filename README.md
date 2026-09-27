@@ -129,17 +129,6 @@ More experiments.
 
 ---
 
-### 📊 GitHub Contributions!
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avni-karutoki&show_icons=true&bg_color=transparent&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF&hide_border=true" alt="Avni's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avni-karutoki&layout=compact&bg_color=transparent&title_color=00BFFF&text_color=C9D1D9&hide_border=true" alt="Avni's top languages" />
-
-</div>
-
----
-
 ### 💼 Let's Connect!
 
 I'm always open to **collaborations, hackathons, interesting projects and learning opportunities**.
