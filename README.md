@@ -129,6 +129,16 @@ More experiments.
 
 ---
 
+### 📊 GitHub Contributions!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/avni-karutoki/avni-karutoki/output/contrib-chart.svg" alt="Avni's weekly contributions area chart" />
+
+</div>
+
+---
+
 ### 💼 Let's Connect!
 
 I'm always open to **collaborations, hackathons, interesting projects and learning opportunities**.
