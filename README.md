@@ -129,6 +129,16 @@ More experiments.
 
 ---
 
+### 📊 GitHub Contributions!
+
+<div align="center">
+
+![Avni's GitHub contribution graph](https://ghchart.rshah.org/avni-karutoki)
+
+</div>
+
+---
+
 ### 💼 Let's Connect!
 
 I'm always open to **collaborations, hackathons, interesting projects and learning opportunities**.
