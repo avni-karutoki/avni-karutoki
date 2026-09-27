@@ -133,7 +133,7 @@ More experiments.
 
 <div align="center">
 
-![Avni's GitHub contribution graph](https://ghchart.rshah.org/avni-karutoki)
+![Avni's GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=avni-karutoki&bg_color=transparent&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
