@@ -14,6 +14,7 @@
 [![X](https://img.shields.io/badge/@avnikaruroki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avnikaruroki)
 [![Substack](https://img.shields.io/badge/Karutoki-FF6719?style=for-the-badge&logo=substack&logoColor=white)]((https://substack.com/@karutoki))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelavni01@gmail.com)
+
 [![GitHub followers](https://img.shields.io/github/followers/avni-karutoki?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/avni-karutoki)
 
 
