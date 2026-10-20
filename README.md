@@ -11,6 +11,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=learning+%E2%86%92+building+%E2%86%92+breaking+%E2%86%92+building+again.;turning+ideas+into+projects%2C+one+commit+at+a+time.;code+by+day%2C+poetry+by+midnight." />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avni-karutoki)
+[![X](https://img.shields.io/badge/@avnikaruroki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avnikaruroki)
+[![Substack](https://img.shields.io/badge/Karutoki-FF6719?style=for-the-badge&logo=substack&logoColor=white)]((https://substack.com/@karutoki))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelavni01@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/avni-karutoki?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/avni-karutoki)
 
