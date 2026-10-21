@@ -84,12 +84,6 @@ And a lot of learning along the way. 🚀
 - **NSUT Oblivion: Ascendent Agents**
 - **NSUT Oblivion: Hack4Crown**
 
-#### NSUT Oblivion: Ascendent Agents
-
-Built **MediTalk AI**, an AI-powered hospital voice receptionist designed to make patient registration and appointment booking more accessible.
-
-**Tech:** `Python` `Whisper` `LangGraph` `Strapi`
-
 > `more hackathons → more ideas → more things to build → coming soon... ✦`
 
 ---
