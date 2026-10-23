@@ -2,7 +2,7 @@
 
 <h1>Avni Goel</h1>
 
-<h3><code>building with code. creating with curiosity. ✦</code></h3>
+<h3><code>building with code. creating with curiosity.✦</code></h3>
 
 <p>
   <b>CSE-AI @ IGDTUW '30</b> · <b>Aspiring Software Engineer</b>
