@@ -62,12 +62,6 @@ Built to explore how **AI + blockchain** can work together to make civic process
 
 🔗 [**View CivicTrace →**](https://github.com/avni-karutoki/CivicTrace)
 
-#### ✍️ Karutoki Blogs
-
-My personal corner of the internet for **poems, blogs, midnight thoughts and stories** bringing together the side of me that writes and the side that builds.
-
-🔗 [**View Karutoki Blogs →**](https://github.com/avni-karutoki/karutoki-blogs)
-
 ---
 
 ### 🔷 Hackathons!
