@@ -54,13 +54,7 @@ Currently figuring things out, one project and one commit at a time. 🚀
 
 ### 🔷 Currently Building!
 
-#### 🌐 CivicTrace
-
-A **privacy-first civic accountability platform** where AI detects duplicate complaints and Web3 creates a verifiable record of every action.
-
-Built to explore how **AI + blockchain** can work together to make civic processes more transparent, traceable, and accountable.
-
-🔗 [**View CivicTrace →**](https://github.com/avni-karutoki/CivicTrace)
+#### 🌐 ReelReason
 
 ---
 
