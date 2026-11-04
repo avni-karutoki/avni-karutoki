@@ -71,6 +71,7 @@ And a lot of learning along the way. 🚀
 - **CodeSlayer 2.0**
 - **NSUT Oblivion: Ascendent Agents**
 - **NSUT Oblivion: Hack4Crown**
+- **TECH EXIMUS 2.0**
 
 > `more hackathons → more ideas → more things to build → coming soon... ✦`
 
