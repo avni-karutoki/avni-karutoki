@@ -66,11 +66,8 @@ Different problems. Different teams. Questionable sleep schedules.
 And a lot of learning along the way. 🚀
 
 - **SheVibes** : ASSESTMERKLE × IGDTUW
-- **CTRL + SOLVE**
 - **Wastechakra 2026**
-- **CodeSlayer 2.0**
 - **NSUT Oblivion: Ascendent Agents**
-- **NSUT Oblivion: Hack4Crown**
 - **TECH EXIMUS 2.0**
 
 > `more hackathons → more ideas → more things to build → coming soon... ✦`
