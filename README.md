@@ -52,12 +52,6 @@ Currently figuring things out, one project and one commit at a time. 🚀
 
 ---
 
-### 🔷 Currently Building!
-
-#### 🌐 ReelReason
-
----
-
 ### 🔷 Hackathons!
 
 My favourite way to learn is to **build under pressure**.
@@ -69,6 +63,7 @@ And a lot of learning along the way. 🚀
 - **Wastechakra 2026**
 - **NSUT Oblivion: Ascendent Agents**
 - **TECH EXIMUS 2.0**
+- **VIHAAN X (IEEE DTU)**
 
 > `more hackathons → more ideas → more things to build → coming soon... ✦`
 
